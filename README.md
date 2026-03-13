@@ -62,14 +62,6 @@ I've worked on various projects spanning **AI/ML systems**, **backend infrastruc
 
 ---
 
-## 📊 GitHub Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=tarun1704)](https://git.io/streak-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tarun1704&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ## 📫 How to Reach Me
 
 | Platform | Link |
@@ -101,13 +93,3 @@ I'm always interested in:
 - 🚀 **Building** scalable, production-grade AI infrastructure together
 
 **Interested in discussing AI architecture, LLMs, or collaboration opportunities? Reach out!** ✨
-
----
-
-<div align="center">
-
-**Made with ❤️ by Tarun Vusirikayala**
-
-*Last updated: 2024*
-
-</div>
