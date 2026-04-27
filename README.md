@@ -1,95 +1,97 @@
-# Hi there 👋 I'm Tarun Vusirikayala
+Hi there 👋 I'm Tarun Vusirikayala
+Senior Data Analyst | ML Engineer | Healthcare & Financial Services Specialist
+I transform complex datasets into actionable insights and build intelligent solutions that drive measurable business impact. With expertise spanning data engineering, analytics, and machine learning, I specialize in designing end-to-end data pipelines, predictive modeling, and automated analytics platforms.
 
-**Software Engineer** specializing in **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, and **scalable AI infrastructure**. I build production-grade AI systems, vector search pipelines, and LLM-powered backend services. Passionate about improving reliability, reducing hallucinations, and enabling responsible AI adoption at scale.
+🎯 About Me
+Passionate data professional with 5+ years of experience in healthcare and financial services domains. I excel at:
 
----
+Claims & Healthcare Analytics: Medication adherence, member risk segmentation, quality metrics optimization
+Financial Risk Management: Credit risk assessment, fraud detection, default prediction
+Data Engineering: Building robust ETL pipelines and data warehouse solutions
+Predictive Modeling: Machine learning solutions for business optimization and forecasting
+BI & Automation: Creating self-service analytics platforms and automated dashboards
 
-## 🌱 Expertise & Specializations
 
-- 🤖 **Large Language Models (LLMs)** — Prompt Engineering, Fine-tuning, Model Evaluation & Monitoring
-- 🔍 **Retrieval-Augmented Generation (RAG)** — Vector Search, Similarity Search, Hallucination Reduction
-- ⚙️ **AI Infrastructure** — Production Deployment, Observability, Secure Generative AI Systems
-- 🏗️ **Backend Architecture** — Microservices, REST APIs, Concurrency, High-Performance Systems
-- ☁️ **Cloud & DevOps** — AWS, Azure, GCP, Kubernetes, Docker, CI/CD Pipelines
+🛠️ Technical Skills
+Programming & Analytics
+SQL | Python | R | SAS | Java | C/C++ | C#
+Data Platforms & Cloud
 
----
+Databases: Oracle, SQL Server, PostgreSQL, Azure SQL Database, Snowflake, BigQuery, Redshift
+Cloud Platforms: Microsoft Azure, AWS, GCP
+Data Warehousing: Azure Synapse Analytics, Snowflake, Redshift
+ETL Tools: Azure Data Factory, Talend, Alteryx
 
-## 💻 Tech Stack & Skills
+BI & Visualization
+Power BI | Tableau | QlikView | Excel Advanced (Power Query, VBA)
+Machine Learning & AI
+Pandas | NumPy | Scikit-learn | Statsmodels | TensorFlow | PyTorch | Azure OpenAI | LangChain | RAG | LLMs
+DevOps & Tools
+Git | GitHub | Docker | Jira | Agile/Scrum | SDLC
 
-**Languages:** Python • Java • JavaScript • Go • TypeScript • C++ • C# • SQL  
-**AI/ML:** Large Language Models • RAG • Vector Search • PyTorch • Scikit-learn • Natural Language Processing  
-**Backend & APIs:** FastAPI • Spring Boot • Flask • REST APIs • Microservices • Multithreading  
-**Frontend & UI:** React.js • Next.js • Angular • Tailwind CSS • Bootstrap • Redux  
-**Cloud & DevOps:** AWS (Lambda, S3, RDS) • Azure • GCP (BigQuery) • Kubernetes • Docker • CI/CD  
-**Databases:** MongoDB • PostgreSQL • MySQL • DynamoDB  
-**Tools & Workflows:** Git • Docker • Postman • JIRA • GitHub Actions • Pytest • Jenkins  
+💼 Experience Highlights
+Senior Data Analyst | 2025 – Present
 
----
+Analyzed medication adherence patterns across 180K+ members using SQL and Python, achieving 25% improvement in adherence rates
+Optimized claims processing workflows using cloud data pipelines, reducing resolution time by 60% (8 days → 3 days)
+Performed pharmacy cost analysis identifying cost optimization opportunities worth $2.2M in net savings
+Developed predictive member risk segmentation model improving plan renewal rates by 3.2%
+Designed automated operational dashboards tracking real-time claims, enrollment, and pharmacy metrics
 
-## 🚀 Projects
+Data Analyst | Financial Services | 2021 – 2022
 
-I've worked on various projects spanning **AI/ML systems**, **backend infrastructure**, and **full-stack applications**. Check out my repositories for detailed implementations and contributions to open-source initiatives.
+Built ETL workflows consolidating customer data from legacy systems into cloud data warehouse, reducing duplicates by 45%
+Created operational dashboards tracking lending pipeline velocity and underwriting bottlenecks
+Developed credit risk prediction models using statistical analysis and Python
+Automated customer onboarding workflows reducing manual corrections by 30%
+Analyzed cross-border payment flows supporting treasury and working capital management
 
----
+Data Science Intern | 2020
 
-## 👯 Looking to Collaborate On
+Built predictive models for customer segmentation improving product conversion by 18%
+Performed exploratory data analysis reducing user churn by 12%
+Designed A/B testing frameworks for feature validation and hypothesis testing
 
-- 🤖 **Large Language Model applications** — RAG systems, prompt optimization, hallucination reduction
-- 🔍 **AI infrastructure & scalability** — Production ML systems, monitoring, secure deployment
-- 💡 **AI-driven tools** for content curation, accessibility, and enterprise automation
-- 🎯 **Open-source AI/ML projects** — LLM frameworks, vector search, data pipelines
-- 🌐 **Full-stack AI applications** solving real-world problems at scale
 
----
+📊 Featured Projects
+Sentiment Analysis of Drug Reviews
+Python | NLP | Scikit-learn | VADER | Naive Bayes | NLTK
 
-## 🤔 Looking for Help With
+Implemented sentiment classification on healthcare reviews using advanced NLP techniques
+Built data preprocessing pipeline with TF-IDF vectorization and feature engineering
+Applied Naive Bayes and VADER algorithms for healthcare decision-making insights
 
-- 🔬 **Advanced research** in LLM optimization, evaluation metrics, and prompt engineering techniques
-- 🛡️ **Robustness & reliability** of generative AI systems in production environments
-- 📈 **Scaling AI systems** for high-throughput, low-latency applications
-- 🔐 **Security & compliance** best practices for AI/ML systems and data privacy
+AI-Powered Self-Service Analytics Platform
+Python | SQL | Streamlit | GPT-4 | Plotly
 
----
+Developed generative AI tool to auto-generate EDA insights, trends, and anomalies from CSV datasets
+Automated exploratory data analysis and reporting workflows using Python
+Reduced manual analysis effort and ad-hoc reporting time significantly
 
-## 💬 Ask Me About
 
-- 🤖 **Large Language Models (LLMs)** — Prompt engineering, fine-tuning, evaluation, hallucination reduction
-- 🔍 **Retrieval-Augmented Generation (RAG)** — Vector search, semantic similarity, knowledge grounding
-- ⚙️ **AI Infrastructure** — Production ML systems, observability, monitoring, and secure deployment
-- 🏗️ **Backend Architecture** — Microservices, REST APIs, concurrency patterns, scalable systems design
-- 📊 **Full-stack AI applications** — End-to-end ML pipelines, data engineering, MLOps
-- ☁️ **Cloud-native development** — AWS, Azure, GCP, Kubernetes, containerization
+🎓 Education
+Master of Science, Computer Science
+SUNY Institute of Technology | 2023 – 2024 | Utica, New York
+Bachelor of Technology, Computer Science
+CVR College of Engineering | 2018 – 2022 | Hyderabad, India
 
----
+📈 Core Competencies
+Domain Expertise
 
-## 📫 How to Reach Me
+Healthcare Analytics (Claims, Patient Analytics, Pharmacy, Risk Adjustment, HEDIS Metrics)
+Financial Services (Credit Risk, AML/KYC, Fraud Detection, Regulatory Reporting, Customer Segmentation)
 
-| Platform | Link |
-|----------|------|
-| 📧 **Email** | [vusirit17@gmail.com](mailto:vusirit17@gmail.com) |
-| 💼 **LinkedIn** | [linkedin.com/in/tarunvusirikayala](https://linkedin.com/in/tarunvusirikayala) |
-| 🐙 **GitHub** | [@tarun1704](https://github.com/tarun1704) |
+Methodologies
 
----
+Agile/Scrum, SDLC, Waterfall
+Statistical Analysis & Hypothesis Testing
+A/B Testing & Experimental Design
+Predictive Modeling & Machine Learning
 
-## 😄 Pronouns
+Business Impact
 
-**He/Him**
+Cost Optimization & Savings Identification
+Process Efficiency Improvements
+Operational Dashboard & KPI Development
+Data Quality & Governance
 
----
-
-## ⚡ Fun Fact
-
-I'm fascinated by the intersection of **language models and human understanding**. Whether it's exploring how LLMs generate creative content, optimizing prompt engineering for better outputs, or building systems that reduce AI hallucinations, I love the challenge of making AI more reliable and trustworthy! 🤖✨
-
----
-
-## 🌟 Let's Connect!
-
-I'm always interested in:
-- 💬 Discussing **LLM systems**, RAG architectures, and production AI challenges
-- 🤝 **Collaborating** on impactful AI/ML projects and open-source initiatives
-- 📚 **Learning** from the community and sharing knowledge about building reliable AI systems
-- 🚀 **Building** scalable, production-grade AI infrastructure together
-
-**Interested in discussing AI architecture, LLMs, or collaboration opportunities? Reach out!** ✨
